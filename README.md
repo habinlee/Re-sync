@@ -85,3 +85,9 @@ Implementation
       - Redis value updated
 
 Test Cases : [sync_test_case.pdf](https://github.com/habinlee/Re-sync/files/6950359/sync_test_case.pdf)
+
+Related Documents :
+- REDIS basics : [REDIS.pdf](https://github.com/habinlee/Re-sync/files/6950386/REDIS.pdf)
+- SSH Tunneling : [SSH Tunneling.pdf](https://github.com/habinlee/Re-sync/files/6950387/SSH.Tunneling.pdf)
+
+
